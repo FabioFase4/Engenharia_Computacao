@@ -22,6 +22,7 @@
 - HTML
 - CSS
 - JavaScript
+- C++ (Para a Pasta Arquivos)
 
 # Orientadora
 - Poliana Rizzo (Projeto de Vida)
