@@ -18,11 +18,14 @@
 - Código Exemplar / Rápido
 - Análise do Futuro da Área
 
-# Linguagens Utilizadas
+# Pastas e Linguagens Utilizadas
+# Arquivos
+- C++
+
+#Engenharia_Computacao
 - HTML
 - CSS
 - JavaScript
-- C++ (Para a Pasta Arquivos)
 
 # Orientadora
 - Poliana Rizzo (Projeto de Vida)
